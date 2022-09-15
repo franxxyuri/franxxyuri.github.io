@@ -126,20 +126,6 @@
   </url>
   
   <url>
-    <loc>https://franxxyuri.github.io/tags/docker/</loc>
-    <lastmod>2022-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://franxxyuri.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://franxxyuri.github.io/tags/kotlin/</loc>
     <lastmod>2022-09-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -148,6 +134,20 @@
   
   <url>
     <loc>https://franxxyuri.github.io/tags/qq%E7%BE%A4%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
+    <lastmod>2022-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://franxxyuri.github.io/tags/docker/</loc>
+    <lastmod>2022-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://franxxyuri.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -163,14 +163,14 @@
   </url>
   
   <url>
-    <loc>https://franxxyuri.github.io/categories/%E6%90%AD%E5%BB%BA%E7%8E%AF%E5%A2%83/</loc>
+    <loc>https://franxxyuri.github.io/categories/kotlin/</loc>
     <lastmod>2022-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://franxxyuri.github.io/categories/kotlin/</loc>
+    <loc>https://franxxyuri.github.io/categories/%E6%90%AD%E5%BB%BA%E7%8E%AF%E5%A2%83/</loc>
     <lastmod>2022-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
